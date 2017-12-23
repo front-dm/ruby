@@ -1,2 +1,2 @@
-# ruby
+# Ruby
 Repository for learning
