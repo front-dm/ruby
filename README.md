@@ -1,2 +1,2 @@
 # Ruby
-Repository for learning
+Default project
